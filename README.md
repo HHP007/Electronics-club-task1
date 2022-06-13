@@ -1,7 +1,7 @@
 # Electronics-club
 ## Task-1:
 
-* **Mini-task 1:**
+* **[Mini-task 1:](https://github.com/HHP007/Electronics-club-task1/tree/master/mini-task1)**
 
 Add the task-1 PDF into the mini-task 1 folder.
 
