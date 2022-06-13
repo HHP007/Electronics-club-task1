@@ -5,7 +5,7 @@
 
 Add the task-1 PDF into the mini-task 1 folder.
 
-* **Mini-task 2:**
+* **[Mini-task 2:](https://github.com/HHP007/Electronics-club-task1/tree/master/mini-task2)**
 
 Document 7 projects inside a folder named ”Mini-Task 2”. Add a brief description of all the 7 Projects and your personal notes,
 comments or any improvements you can think of.
